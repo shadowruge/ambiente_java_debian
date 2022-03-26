@@ -7,7 +7,7 @@ Configurando anbiente de desenvolvimento Java no Gnu/Debian Buster
 $ java -version<br>
 
 *se necessário<br>
-$ sudo apt install -y openjdk-11-jdk -y<br>
+$ sudo apt install openjdk-11-jdk -y<br>
 $ java -version<br>
 
 *instalando Apache Maven<br>
